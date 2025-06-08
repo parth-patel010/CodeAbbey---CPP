@@ -1,4 +1,4 @@
-// CodeAbby Problem 10 Vowel Count using C++
+// CodeAbby Problem 11 Arithmetic Progression using C++
 /*
 ====Expected Output====
 data:
