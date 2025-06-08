@@ -11,7 +11,6 @@ answer:
 5 20 300
 */
 
-//Note:- Check Condition A + B > C && A + C > B && B + C > A
 
 #include<iostream>
 
