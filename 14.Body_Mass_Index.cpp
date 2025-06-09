@@ -1,4 +1,3 @@
-
 // CodeAbby Problem 14 Body Mass Index using C++
 /*
 ====Expected Output====
